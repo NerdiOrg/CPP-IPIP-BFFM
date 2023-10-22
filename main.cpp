@@ -1,7 +1,6 @@
 #include <iostream>
 #include <vector>
 #include <string>
-#include <map>
 
 struct Question {
     std::string question;
@@ -74,7 +73,7 @@ int main() {
     std::cout << "Welcome to the IPIP Big-Five Factor Markers Assessment!" << std::endl;
     std::cout << "Programmed in C++" << std::endl << questionNum << " Total Questions" << std::endl;
     std::cout << std::endl << helpText;
-    std::cout << std::endl << std::endl << "For each question, type a number 1-5 to represent your answer. Type 'help' for more info, or press Enter to get started." << std::endl;
+    std::cout << std::endl << "For each question, type a number 1-5 to represent your answer. Type 'help' for more info.\n\nPress Enter to start the IPIP BFFM test." << std::endl;
     std::cin.ignore();
 
     for (const auto& questionData : assessment) {
@@ -108,7 +107,7 @@ int main() {
         std::cout << std::endl << typeInfo[i] << ": " << typeScores[i] << "" << std::endl;
     }
 
-    std::cout << std::endl << std::endl << "Thank you for taking the IPIP BFFM Assessment! Press any key to exit, but copy and information above to save it." << std::endl;
+    std::cout << std::endl << std::endl << "Thank you for taking the IPIP BFFM Assessment! Press any key to exit, but copy any information above to save it." << std::endl;
     std::string exitProgram;
     std::getline(std::cin, exitProgram);
     return 0;
