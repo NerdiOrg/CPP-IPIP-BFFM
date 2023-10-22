@@ -10,9 +10,9 @@ Windows 64-bit : https://github.com/NerdiOrg/CPP-IPIP-BFFM/blob/main/dist/ipipbf
 
 ## Compile Source Code
 
-Want to make changes? Checkout the license file for more details.
-
 Exact compile instructions depends on environment. Example: g++ main.cpp -o ipipbffm
+
+Read license for more information about usage.
 
 ## Python IPIP BFFM 
 
