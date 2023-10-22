@@ -8,6 +8,12 @@ Not a coder? No problem. Download the program IPIP BFFM for Windows here:
 
 Windows 64-bit : https://github.com/NerdiOrg/CPP-IPIP-BFFM/blob/main/dist/ipipbffm.exe
 
+## Compile Source Code
+
+Want to make changes? Checkout the license file for more details.
+
+Exact compile instructions depends on environment. Example: g++ main.cpp -o ipipbffm
+
 ## Python IPIP BFFM 
 
 If you want to use Python instead, I released that a number of years ago here: https://github.com/NerdiOrg/Python-IPIP-BFFM
