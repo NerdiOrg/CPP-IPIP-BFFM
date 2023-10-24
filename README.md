@@ -10,7 +10,10 @@ Windows 64-bit : https://github.com/NerdiOrg/CPP-IPIP-BFFM/blob/main/dist/ipipbf
 
 ## Compile Source Code
 
-Exact compile instructions depends on environment. Example: g++ main.cpp -o ipipbffm
+Exact compile instructions depends on environment. 
+
+Example: g++ main.cpp -o ipipbffm  -static -static-libgcc -static-libstdc++
+- In this example, the program is compiled with G++, using static linking to pack necessary DLLs into the exe.
 
 Read license for more information about usage.
 
