@@ -71,7 +71,7 @@ int main() {
     int questionNum = 0;
 
     std::cout << "Welcome to the IPIP Big-Five Factor Markers Assessment!" << std::endl;
-    std::cout << "Programmed in C++" << std::endl << questionNum << " Total Questions" << std::endl;
+    std::cout << "Programmed in C++" << std::endl << numQuestions << " Total Questions" << std::endl;
     std::cout << std::endl << helpText;
     std::cout << std::endl << "For each question, type a number 1-5 to represent your answer. Type 'help' for more info.\n\nPress Enter to start the IPIP BFFM test." << std::endl;
     std::cin.ignore();
