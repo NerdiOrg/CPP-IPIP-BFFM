@@ -10,12 +10,16 @@ Windows 64-bit :
 - https://github.com/NerdiOrg/CPP-IPIP-BFFM/blob/main/dist/ipipbffm.exe
 - https://raw.githubusercontent.com/NerdiOrg/CPP-IPIP-BFFM/main/dist/ipipbffm.exe
 
+--- 
+Linux distribution files are cross-compatible, but are here just in case. Each release has been compiled on the associated operating system.
+
 Linux (Ubuntu) :
 - https://github.com/NerdiOrg/CPP-IPIP-BFFM/blob/main/dist/ipipbffm-linux-ubuntu
 - https://raw.githubusercontent.com/NerdiOrg/CPP-IPIP-BFFM/main/dist/ipipbffm-linux-ubuntu
 
-Linux (Debian) : Coming soon...
-
+Linux (Debian) :
+- https://github.com/NerdiOrg/CPP-IPIP-BFFM/blob/main/dist/ipipbffm-debian
+- https://raw.githubusercontent.com/NerdiOrg/CPP-IPIP-BFFM/main/dist/ipipbffm-debian
 
 ## Compile Source Code
 
