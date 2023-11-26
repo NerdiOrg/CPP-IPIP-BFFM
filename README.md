@@ -8,6 +8,11 @@ Not a coder? No problem. Download the program IPIP BFFM for Windows here:
 
 Windows 64-bit : https://github.com/NerdiOrg/CPP-IPIP-BFFM/blob/main/dist/ipipbffm.exe
 
+Linux (Ubuntu) : https://github.com/NerdiOrg/CPP-IPIP-BFFM/blob/main/dist/ipipbffm-linux-ubuntu
+
+Linux (Debian) : Coming soon...
+
+
 ## Compile Source Code
 
 Exact compile instructions depends on environment. 
