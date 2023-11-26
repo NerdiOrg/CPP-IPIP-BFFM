@@ -4,7 +4,7 @@ C++ program (single file) for command line IPIP BFFM test. Useful for personal t
 
 ## Download & Use
 
-Not a coder? No problem. Download the program IPIP BFFM for Windows here:
+Not a coder? No problem. Download the program IPIP BFFM here:
 
 Windows 64-bit : 
 - https://github.com/NerdiOrg/CPP-IPIP-BFFM/blob/main/dist/ipipbffm.exe
